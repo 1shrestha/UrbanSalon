@@ -1,31 +1,20 @@
-# UrbanSalon
-PuneGlow – AI-powered home salon services marketplace for Pune. Built for SuperXgen AI Startup Buildathon 2026.
-## Features
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-- Home salon service booking
-- Beauty professional listings
-- Search and filtering
-- AI Beauty Assistant
-- Mobile responsive design
-- Customer reviews and ratings
-- Partner registration portal
+# Run and deploy your AI Studio app
 
-## Tech Stack
+This contains everything you need to run your app locally.
 
-- Next.js
-- React
-- Tailwind CSS
-- Framer Motion
-- Vercel Deployment
+View your app in AI Studio: https://ai.studio/apps/f0a400bb-4245-4a7f-9b31-beb99dcdcded
 
-## Live Demo
+## Run Locally
 
-Add your deployed URL here:
+**Prerequisites:**  Node.js
 
-https://urbansalon-1024739022997.asia-southeast1.run.app
 
-## Installation
-
-```bash
-npm install
-npm run dev
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

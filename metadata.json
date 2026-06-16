@@ -1,0 +1,6 @@
+{
+  "name": "UrbanSalon",
+  "description": "Bespoke Mobile Salon & AI Style Lab. Tailored premium treatments, stylist matching, and live facial scans in Pune.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
